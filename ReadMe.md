@@ -32,7 +32,7 @@ It demonstrates practical use of:
 ## 🏗️ Project Structure
 
 ```
-hangman.py (or your filename)
+Final Project.py
 │
 ├── Venue Class
 │   ├── Initialize seating and prices
@@ -57,26 +57,6 @@ hangman.py (or your filename)
 * Command Line Interface (CLI)
 
 ---
-
-## ▶️ How to Run
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-```
-
-2. Navigate to the project folder:
-
-```bash
-cd YOUR_REPO
-```
-
-3. Run the program:
-
-```bash
-python3 your_file_name.py
-```
 
 ---
 
